@@ -1,0 +1,2 @@
+(this.webpackJsonp1_material_note=this.webpackJsonp1_material_note||[]).push([[4],{28:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return r}));var o=n(0);function r(){return Object(o.jsx)("textarea",{id:"note_content",title:"notes","aria-label":"enter your notes",placeholder:"type your notes...."})}}}]);
+//# sourceMappingURL=4.6961147f.chunk.js.map
